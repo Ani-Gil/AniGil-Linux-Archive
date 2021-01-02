@@ -1,0 +1,1 @@
+ssh -i C:\Users\User\Desktop\School_Key_Pair.pem ubuntu@ec2-13-209-42-157.ap-northeast-2.compute.amazonaws.com
